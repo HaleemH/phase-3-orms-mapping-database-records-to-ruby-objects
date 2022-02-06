@@ -1,4 +1,4 @@
-# Converting Database Records to Ruby Objects
+ # Converting Database Records to Ruby Objects
 
 ## Learning Goals
 
